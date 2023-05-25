@@ -8,3 +8,5 @@ https://primbot.net/puzzle_solver.php?piece=id&server=2
 
 # Server 3
 https://primbot.net/puzzle_solver.php?piece=id&server=3
+
+note -> dont pay for bolwl's skidded solver.
