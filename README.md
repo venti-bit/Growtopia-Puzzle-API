@@ -1,7 +1,10 @@
 # Growtopia-Puzzle-API
 
-# Basic Server 
-https://api.vchecker.xyz/growtopia/puzzle_solver.php?piece=id&server=basic
+# Server 1 
+https://primbot.net/puzzle_solver.php?piece=id&server=1
 
-# Premium Server
-https://api.vchecker.xyz/growtopia/puzzle_solver.php?piece=id&server=premium
+# Server 2
+https://primbot.net/puzzle_solver.php?piece=id&server=2
+
+# Server 3
+https://primbot.net/puzzle_solver.php?piece=id&server=3
